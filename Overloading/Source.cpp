@@ -16,5 +16,5 @@ private:
 	int den = 0;//¤À¥À
 };
 int main() {
-
+	cout << "hello world" << endl;
 }
